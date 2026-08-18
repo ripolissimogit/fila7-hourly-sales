@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-17T23:17:31.879Z",
+  "generatedAt": "2026-08-18T00:28:51.795Z",
   "films": [
     {
       "id": "spider-man-brand-new-day",
       "title": "Spider-Man: Brand New Day",
-      "netSoldLastHour": 27,
-      "comparableSources": 947,
-      "baselineSources": 0
+      "netSoldLastHour": 19,
+      "comparableSources": 886,
+      "baselineSources": 89
     },
     {
       "id": "odissea",
       "title": "Odissea",
-      "netSoldLastHour": 22,
-      "comparableSources": 882,
-      "baselineSources": 3
+      "netSoldLastHour": 3,
+      "comparableSources": 820,
+      "baselineSources": 95
     },
     {
       "id": "hokum",
       "title": "Hokum",
       "netSoldLastHour": 0,
-      "comparableSources": 108,
-      "baselineSources": 0
+      "comparableSources": 107,
+      "baselineSources": 4
     },
     {
       "id": "minions-and-monsters",
       "title": "Minions & Monsters",
       "netSoldLastHour": 0,
       "comparableSources": 70,
-      "baselineSources": 0
+      "baselineSources": 4
     },
     {
       "id": "toy-story-5",
       "title": "Toy Story 5",
       "netSoldLastHour": 0,
       "comparableSources": 18,
-      "baselineSources": 0
+      "baselineSources": 1
     },
     {
       "id": "le-citta-di-pianura",
@@ -47,9 +47,9 @@
     {
       "id": "michael",
       "title": "Michael",
-      "netSoldLastHour": -1,
-      "comparableSources": 3,
-      "baselineSources": 1
+      "netSoldLastHour": 0,
+      "comparableSources": 4,
+      "baselineSources": 0
     },
     {
       "id": "deep-water-incubo-dagli-abissi",
@@ -90,6 +90,11 @@
       "sold": 344
     },
     {
+      "sourceKey": "18tickets:18tickets-a3a1286d-d58f-420c-89ac-90b236fbcb41",
+      "filmId": "odissea",
+      "sold": 351
+    },
+    {
       "sourceKey": "18tickets:18tickets-7bf1076e-5024-491d-b7e6-81f736610775",
       "filmId": "odissea",
       "sold": 349
@@ -128,11 +133,6 @@
       "sourceKey": "18tickets:18tickets-be517321-12c5-4526-aae1-59fb83cc8a2b",
       "filmId": "spider-man-brand-new-day",
       "sold": 86
-    },
-    {
-      "sourceKey": "18tickets:18tickets-fc240810-7bc1-4b58-b6cd-1b0c02ae5c90",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 94
     },
     {
       "sourceKey": "18tickets:18tickets-f3148bca-e3dc-4621-903d-1c200191dc56",
@@ -450,11 +450,6 @@
       "sold": 0
     },
     {
-      "sourceKey": "18tickets:18tickets-6aba1ba0-c0c9-496d-94e7-988cdb5285c9",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 6
-    },
-    {
       "sourceKey": "18tickets:18tickets-89249b49-c62e-4d20-9379-f03bd32fa09f",
       "filmId": "spider-man-brand-new-day",
       "sold": 0
@@ -491,591 +486,6 @@
     },
     {
       "sourceKey": "18tickets:18tickets-ad25cec9-4f74-4191-af75-66eff59408dc",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-aad4eab2-f1a6-4248-9ed5-2a517b203a7f",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-6e7bd774-f436-447c-9aff-19576bca5b62",
-      "filmId": "odissea",
-      "sold": 8
-    },
-    {
-      "sourceKey": "18tickets:18tickets-71904a9f-ccd3-4e64-93ab-02db6f9a97bb",
-      "filmId": "odissea",
-      "sold": 6
-    },
-    {
-      "sourceKey": "18tickets:18tickets-7ad5d05d-11c9-446f-aa4c-0780e1f3f24f",
-      "filmId": "odissea",
-      "sold": 9
-    },
-    {
-      "sourceKey": "18tickets:18tickets-84249570-e6b4-4855-b5fd-67ac01f934d3",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-a70b8b49-cf93-48cf-84a1-023f8913b927",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-c2b46e86-76e9-4323-9555-74571a21991a",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-4ffe4e4d-6657-4022-918b-f6d614397ab3",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-8c07f7ed-aa77-4bfe-be27-fd536db6089e",
-      "filmId": "odissea",
-      "sold": 3
-    },
-    {
-      "sourceKey": "18tickets:18tickets-1916b1c0-043e-4e64-9ec0-8e820f66224b",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-791884bb-96d3-4041-bb58-e9ad5d6c1892",
-      "filmId": "odissea",
-      "sold": 4
-    },
-    {
-      "sourceKey": "18tickets:18tickets-7c348b8a-a3eb-4e32-aa32-09b58cb3aa3b",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-cfb324d6-24f2-4731-a566-847699b2238c",
-      "filmId": "odissea",
-      "sold": 2
-    },
-    {
-      "sourceKey": "18tickets:18tickets-1cc7f1ce-6db3-4171-aaee-56671e9ea63f",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-5e161cd5-8085-4262-a193-e7a60b53e432",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-e69478c1-c108-4bab-af2e-3ef32241f7dd",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-0cebc399-6daa-4b87-a97b-2f7fb0baee35",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-420cf3bd-4aa6-4f07-a23c-7283b572c6fa",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-540928c5-1b5b-4dde-80a9-f991c8454109",
-      "filmId": "odissea",
-      "sold": 3
-    },
-    {
-      "sourceKey": "18tickets:18tickets-2e1c79da-ec07-423f-b2a7-196290e131ed",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-293a5193-7bb1-43a4-bcb4-c4d4da5152ec",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-5b3e574e-5660-4339-8646-2a76dd1224d4",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-277de351-af90-4775-9949-d0291a8cdf2c",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-49a9bbf4-f92d-45df-a74f-afa82913caab",
-      "filmId": "odissea",
-      "sold": 2
-    },
-    {
-      "sourceKey": "18tickets:18tickets-2b74ef30-4bec-43ff-b8b4-9cf580aa785c",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-6ef94d97-45b5-41b1-aef2-ce7e3ed93168",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-ec2e180a-0301-4315-aff3-8df5a9924810",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-2bd168d2-5b51-4abb-97d7-540c7f16c2ee",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-7139beac-c8bf-430c-9fab-8eb1b8c33b85",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-988fe251-e846-449f-90ef-656a3519f32d",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-3c37e5a7-91f2-493b-8aa2-9bca75820cf6",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-eb53ffd2-555a-4780-adf3-897ae50df555",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-ce5d572c-e36d-4012-86fe-05ff44120c2f",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-c50e98c0-cded-4a70-a794-16bd899d4399",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-cb825ee8-ee48-4ee0-b07a-66a261f50b34",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-7d21ce16-656d-4da9-9f98-abaacb93bd91",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-fa45434f-8a03-4825-950e-4a11fb6e5cf4",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-d5d08562-e630-42dd-bc10-ce9d65a6f2e6",
-      "filmId": "odissea",
-      "sold": 2
-    },
-    {
-      "sourceKey": "18tickets:18tickets-1524ebb4-a73c-43a3-84e8-05333d2c012f",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-8064a6c0-86c4-46e9-809f-56628f50ec42",
-      "filmId": "odissea",
-      "sold": 8
-    },
-    {
-      "sourceKey": "18tickets:18tickets-ab9a9475-1cb5-419b-87e2-f404680ae8e8",
-      "filmId": "odissea",
-      "sold": 3
-    },
-    {
-      "sourceKey": "18tickets:18tickets-01730ee3-8809-47be-a68b-dbbd84a5807e",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-b1202cc5-9ac0-41d9-9d32-29b4fbd7a265",
-      "filmId": "odissea",
-      "sold": 4
-    },
-    {
-      "sourceKey": "18tickets:18tickets-d3e65d12-4b59-46ad-a26d-258ecaca95e3",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-a145699b-a3cd-4c61-879a-b2abca917a74",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-08a13d22-cbe8-4c18-8160-c3ee47e8aa86",
-      "filmId": "odissea",
-      "sold": 10
-    },
-    {
-      "sourceKey": "18tickets:18tickets-aa7b20f4-484b-4bcd-b731-0d4064960da3",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-5a806a89-3758-4622-994b-bc4cbb9b5224",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-24c4c6a4-2434-4f10-ab79-64fc804b58cf",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-57d676db-aa5a-4413-907e-f63726d8ef35",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-b11e372f-d153-4396-9b26-7c85306e032a",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-757948c8-7770-43d9-aadd-486d9f582fce",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-d06bd7f9-0927-444b-bc87-e47eec9576fe",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-8b4fe012-bbf3-4437-a364-67d0d1149696",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-4fe7980c-92a3-401c-83d4-b01a9696ee05",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-600f9723-8ed1-487b-ac8f-023fcfe75c09",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-e5e21cd4-0db6-4640-a25d-ec7b013f4d65",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-ed8ce04f-f2c2-48ae-bca1-72aed82bc86d",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-f219de65-b3d8-44e1-af87-0b2540d7c137",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-7d56650a-2736-426c-8fab-77bcd0b12b14",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-294d669a-04b4-4776-8dc3-91e061c70ecc",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 4
-    },
-    {
-      "sourceKey": "18tickets:18tickets-3771b915-f4cc-492b-9674-c24e35ec0271",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 8
-    },
-    {
-      "sourceKey": "18tickets:18tickets-b4079a98-5478-4e58-9c7a-28d1a26e0ab1",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 5
-    },
-    {
-      "sourceKey": "18tickets:18tickets-b5b3ed5e-8045-4d8f-b74f-0e38c440489b",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 11
-    },
-    {
-      "sourceKey": "18tickets:18tickets-6e68c225-ac5c-48d0-9243-ee4101556a52",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-86a969e1-3681-46fe-a691-cf2a1b18c165",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-4bb995b9-fe3c-4f42-b3dd-35b3abc34111",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-749fe6d6-cfbe-4716-97e8-51ee4dd82d7f",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 5
-    },
-    {
-      "sourceKey": "18tickets:18tickets-e910794c-92f7-408f-9cfe-3278d227288f",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 4
-    },
-    {
-      "sourceKey": "18tickets:18tickets-6a2a4251-7e5c-4b78-9226-437f0fa19279",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-b62abe1d-2ac7-44bd-8c81-92f3b0f01972",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-2bac7f8d-a6b8-4c75-99d1-6fbd0c57c327",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-cec1da47-feb3-4a08-a275-44e8f6daced3",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 4
-    },
-    {
-      "sourceKey": "18tickets:18tickets-2fe334f5-17f7-445c-8f63-831995ea3633",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-81e84828-f60c-4235-8c99-76bdff6a3558",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 2
-    },
-    {
-      "sourceKey": "18tickets:18tickets-898674cf-cc2a-4e09-ae8a-e288fe3c43ac",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-1e6e949c-9e31-4580-9f7e-3642d6e1fe12",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-534de91a-90f4-44d1-b6cf-cc0b83ae450b",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-b93545dc-9477-4b13-9c78-2ba7abd86f57",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 2
-    },
-    {
-      "sourceKey": "18tickets:18tickets-58cdde5d-99aa-4658-a35f-a3d2d7a3088c",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-c5a6da32-c101-416b-89bc-36b92ce499dd",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-2ebe4cb8-f50f-4aa4-a3a9-7ce265f842e8",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-9097313e-e754-4e92-89df-cb81bb56a429",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-4f001b0e-77b5-42a5-a72c-2eadde27e0df",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-5046f1ac-a534-4034-9539-9bce483a5e12",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 2
-    },
-    {
-      "sourceKey": "18tickets:18tickets-2a715e7a-0b39-4554-bb75-a7bac821683c",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 2
-    },
-    {
-      "sourceKey": "18tickets:18tickets-834f8f3b-b63f-446b-b7cc-9f362fe4bc47",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-fec47df3-4b51-41d9-b613-d8f4ce6829ce",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-c6034e83-9609-4b3a-a22d-9791c8057a98",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 2
-    },
-    {
-      "sourceKey": "18tickets:18tickets-c8ef2d4d-bfb8-4781-8bfe-7ca7680e9ea1",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 3
-    },
-    {
-      "sourceKey": "18tickets:18tickets-3c6660f4-046a-4aeb-b81b-a37b55078ba3",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 2
-    },
-    {
-      "sourceKey": "18tickets:18tickets-9d640669-a61a-4d0e-b149-50ad2c9d91e6",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-5104b416-8b7d-48b2-95f6-3b9aa684fc9f",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-076adff9-ce9d-4e95-a181-74fd54c1a9c1",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-f1a6f5ac-f306-457c-8e16-710d90b0bf09",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-8ef3f0fc-3138-4c49-9422-6adb62f62157",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-2e7e467e-5484-4700-83e0-cfd3d17dc625",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-64ec70b7-e76a-4d19-962f-e09b8d1b29e5",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-d4f4cc9e-e9e7-4e78-863a-6c8d48005ac7",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-e1bb64b7-b4e9-400e-9dba-9ba4eb6ffa68",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-b3633151-0488-45db-be53-0185a0d97fc1",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-6f4abe92-c676-438b-9c38-7800d165a6dd",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-6684ff0c-bbfd-4bff-887e-8ce920b18183",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-9690fe0e-212a-4c23-9483-6bd77aa5aac3",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 3
-    },
-    {
-      "sourceKey": "18tickets:18tickets-3c6ee5ba-7840-4df4-9da9-0f5d7dad51f2",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-d9a7d5e1-e83c-4ec0-9d04-0ed4ddff9c0d",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-68c069d2-a4f9-460c-b1fa-b153a2e68f81",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-4b9493e4-abaf-45d8-b86c-36089b2ee546",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-85ff3dc3-20be-43b0-a9bf-d027d4b84915",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-ba39ecdc-c3b9-4fe2-8058-d10403f4bdfc",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-4830aaf3-c387-47d7-ae43-e3df809bce58",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-5189754f-3f61-4348-b040-9c8c8beb359d",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-768797c5-e365-4104-a306-f648743f2ed4",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-388f296e-aa93-498b-acc4-6ae2107d884b",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-d379c8e4-6827-4e1c-ba13-283d03a01d7c",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-241e6ba2-5f14-4903-a063-b126fae2f888",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-c2543b25-ed00-47c9-a268-2636fdb04c8b",
       "filmId": "spider-man-brand-new-day",
       "sold": 0
     },
@@ -1245,6 +655,11 @@
       "sold": 0
     },
     {
+      "sourceKey": "18tickets:18tickets-c499c239-9c7a-4f87-934d-870e2a2b6a7b",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 3
+    },
+    {
       "sourceKey": "18tickets:18tickets-126a9903-830b-4102-8f0a-b7332f391423",
       "filmId": "spider-man-brand-new-day",
       "sold": 5
@@ -1383,11 +798,6 @@
       "sourceKey": "18tickets:18tickets-e8940bdf-44e2-4821-b738-aa0f15d21d20",
       "filmId": "odissea",
       "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-8038c2b6-34ce-45e6-b480-8cafe736b3d7",
-      "filmId": "odissea",
-      "sold": 7
     },
     {
       "sourceKey": "18tickets:18tickets-566421b7-ace1-4bb8-9866-66744cc71072",
@@ -1625,6 +1035,11 @@
       "sold": 8
     },
     {
+      "sourceKey": "18tickets:18tickets-cb27fe46-8859-47ea-86be-9eda9bc3a7ca",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
       "sourceKey": "18tickets:18tickets-964b6176-a6aa-430f-8a47-52e135cc44c4",
       "filmId": "spider-man-brand-new-day",
       "sold": 8
@@ -1672,7 +1087,7 @@
     {
       "sourceKey": "18tickets:18tickets-cfdeb060-60d5-48a0-9141-940be4681121",
       "filmId": "spider-man-brand-new-day",
-      "sold": 0
+      "sold": 2
     },
     {
       "sourceKey": "18tickets:18tickets-619afc51-948b-42cb-af4e-58c2820d8ca5",
@@ -1715,11 +1130,6 @@
       "sold": 0
     },
     {
-      "sourceKey": "18tickets:18tickets-f781714a-3151-4b01-baf4-2a0dbc46df2c",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 4
-    },
-    {
       "sourceKey": "18tickets:18tickets-878931fd-df43-470e-8601-1dd628c7b338",
       "filmId": "spider-man-brand-new-day",
       "sold": 0
@@ -1736,11 +1146,6 @@
     },
     {
       "sourceKey": "18tickets:18tickets-61d39366-a38d-4440-bef9-f57d049973cb",
-      "filmId": "hokum",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-a2c07bbc-ebb9-471c-b87b-7e349b88ba3d",
       "filmId": "hokum",
       "sold": 0
     },
@@ -1801,6 +1206,856 @@
     },
     {
       "sourceKey": "18tickets:18tickets-4ffb002a-d901-48f1-837e-68978da22012",
+      "filmId": "hokum",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-526b098d-6b57-4055-9bbb-f6661d134954",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-91de060e-ce01-47d0-8ce8-78887c9f4c6b",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-83bb1608-dc4e-4e79-b6e0-e92e140e408b",
+      "filmId": "odissea",
+      "sold": 2
+    },
+    {
+      "sourceKey": "18tickets:18tickets-4baf4123-c5e7-415c-baf6-a5dfd4c7e24f",
+      "filmId": "odissea",
+      "sold": 6
+    },
+    {
+      "sourceKey": "18tickets:18tickets-3b688277-b12d-4fe7-9871-b4d537bfd9bf",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-53f176d6-06be-465f-b534-230df0f33d41",
+      "filmId": "odissea",
+      "sold": 4
+    },
+    {
+      "sourceKey": "18tickets:18tickets-f55fa717-fdfa-41e0-87aa-8b6687d7b8ba",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-6f909833-d202-426e-9641-152a6ae17341",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 3
+    },
+    {
+      "sourceKey": "18tickets:18tickets-d20dbd58-1dc8-4d12-9572-5609250d5503",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-df134888-3148-49d5-b928-f88dcf78f291",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-a374fec9-8bc1-4dd9-923f-0620eae92bc9",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 14
+    },
+    {
+      "sourceKey": "18tickets:18tickets-d52931e3-f821-4e12-bf6a-34f79db8d216",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 3
+    },
+    {
+      "sourceKey": "18tickets:18tickets-1c5da07f-1d0f-40f0-b159-90e8246c8495",
+      "filmId": "hokum",
+      "sold": 2
+    },
+    {
+      "sourceKey": "18tickets:18tickets-cb334e07-172f-4b56-a8b7-c38f54fd797b",
+      "filmId": "toy-story-5",
+      "sold": 3
+    },
+    {
+      "sourceKey": "18tickets:18tickets-cc6b541f-88c4-4b4d-b266-10dd445e58a0",
+      "filmId": "minions-and-monsters",
+      "sold": 4
+    },
+    {
+      "sourceKey": "18tickets:18tickets-f6f8ef33-7d00-4ac8-8abc-977eb15b01b6",
+      "filmId": "minions-and-monsters",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-a77804ae-0c1d-45d2-b706-fb0a555c0f78",
+      "filmId": "odissea",
+      "sold": 2
+    },
+    {
+      "sourceKey": "18tickets:18tickets-2921b3ae-9481-4b04-be31-2937c81e37ea",
+      "filmId": "odissea",
+      "sold": 15
+    },
+    {
+      "sourceKey": "18tickets:18tickets-cc109a7f-0dc0-455c-81a5-8bfdc97d7788",
+      "filmId": "odissea",
+      "sold": 4
+    },
+    {
+      "sourceKey": "18tickets:18tickets-7fa92327-3d42-4abd-acfa-4e1d39080aa8",
+      "filmId": "odissea",
+      "sold": 20
+    },
+    {
+      "sourceKey": "18tickets:18tickets-6318daea-0ed2-40c5-86b4-6ecdd6249f49",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-8b012085-e9ba-42ff-87e5-81bf13d2da55",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-254b40fa-dc64-464d-b261-eab39cb15c92",
+      "filmId": "odissea",
+      "sold": 6
+    },
+    {
+      "sourceKey": "18tickets:18tickets-8084d967-e8b7-4523-ab98-aa2699fcb7a3",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-3d71a951-3f62-4228-8321-529a753e2c74",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-44988b4f-4aab-4f76-8b34-8fba1bc261a0",
+      "filmId": "odissea",
+      "sold": 2
+    },
+    {
+      "sourceKey": "18tickets:18tickets-bfaffd15-1328-4320-86ce-e3b9f1545610",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-45b0f5d4-ba9b-4b0d-b055-531b836cee33",
+      "filmId": "odissea",
+      "sold": 2
+    },
+    {
+      "sourceKey": "18tickets:18tickets-6efbfd0e-8cff-489b-8c24-5feb05b745df",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-01568680-5046-4051-890a-31490bb4c96c",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-f329e0f0-1b33-4c0c-a3bb-77e17dec5641",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-27600a53-b04a-48e1-86a3-404d21b1cfc9",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-a9c93136-c4f4-430f-bf32-9a2b24e5a0a9",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-1ce841d0-d3d9-42b3-9a7c-88cbb855c676",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-b35e8c1d-39ec-4dc3-8142-1f02f2c88656",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-07f741dc-b638-4947-8c5d-0ec142f40eba",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-81c188fb-030a-483b-a46a-f47e526f5624",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-d6d65aee-17da-4476-9cba-9b2a79c520cf",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-53940696-d5e1-46b4-80c9-2336a0019be2",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-bfc86f8d-a5ca-49c2-9541-641693893ba0",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-d7f2a0d3-ecda-4f73-bc52-2104781bb447",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-7685915b-3817-4adf-96e4-715a162d32c3",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-5e221211-b5f1-4bcd-989d-4a4a8fc7e2c0",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-a891814d-d8da-48ee-af2e-3adf8b3ac7f0",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-f28eafc5-ecf3-42df-8ff8-972e7937dbcf",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-bf161bf2-f510-46df-8f20-18d5efaebe76",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-404143b9-41a0-47d4-b246-cee5ab5077f4",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-e07aec1d-bd95-48af-908b-d761b6925b29",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-119dbd20-ca39-42df-b179-f6d55cf17737",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-a1c99126-63d0-49f0-8937-935081472fe5",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-803bd42f-c261-4b42-b638-c7f4dc0368ba",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-cbf02da6-05bc-47eb-a8de-839139984064",
+      "filmId": "odissea",
+      "sold": 2
+    },
+    {
+      "sourceKey": "18tickets:18tickets-c7451063-04cb-43cd-83a9-0cfb48578e3e",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-f1ddd746-3c7e-492c-8581-a2a40dce372c",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-547996ba-d2df-4414-9a25-b6a3d516a38b",
+      "filmId": "odissea",
+      "sold": 2
+    },
+    {
+      "sourceKey": "18tickets:18tickets-c39f7a0d-0b7e-4ebf-bddd-2fa0b4344464",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-26637451-ce1b-415d-a1d7-aec6de3436f9",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-97a3a82a-59ce-4971-a405-ef4a72586bc8",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-cbfe7be0-543d-411a-bd2c-31d87d4f0509",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-58d9514f-d6a7-4a30-9996-3bbb897445e7",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-c678bee9-e310-4363-a4a9-5490606650f6",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-bf40826b-469a-480a-8089-54d21524025f",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-ced4ddb7-8d2e-456b-b790-1761e9ecdccf",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-b1bc7da2-faed-4865-9dba-1b91de498072",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-9b964f89-c98d-4576-823f-cedc86056aab",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-5baa878c-7026-43a4-a9ee-404cac395006",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-eb144be8-381a-4851-8180-8e3445704a42",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-ceae4d76-cde5-4f02-877e-4a6254398099",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-d1bfc1b4-8200-4290-8ce6-d2b8fc59cb70",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-50dfe9a4-cc3e-4ab9-8cfe-431392ea9e33",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-74c87888-7aff-4742-9d1b-0614c6904cb5",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-b177b425-78a5-4ece-8308-3f6e1e715c8d",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-67048682-a864-43b2-a2a4-2c1124f80aab",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-f3340b18-34c0-41fe-ac8f-73d79ab07d82",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-f5eb6b96-dd86-42f5-b6f8-d11a23b0b067",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-a51a17d0-17d1-45fe-a92c-356981f531bd",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-033494ef-27f0-4d33-bbab-0e25180d3c7e",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-91004799-8f05-4282-954d-ce7c68ab2a70",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-cb05c297-86b4-4ec7-8f3a-67f8ac0e81bf",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-244491ed-9b71-4f60-bd27-befeae5be8b4",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-30501a20-7589-4447-baea-c85275ac910f",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-6618a9b5-76dd-436b-9c7b-e3d470311bb9",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-e886ddb8-fb6b-4e7c-bd88-f9a7538d3760",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-e02ad97e-8613-4ae2-a606-9e9a5e9ef5f8",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-fe3ffc4e-2bd9-4577-a6b9-2158742cf33e",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-624e4453-1865-48b4-8cc3-44424ca709bf",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-5c46a2a7-38f0-41ff-99e7-f843e4900623",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-accc7c2f-b8f3-49b0-8bc6-4646aaf8e797",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-87402b44-275c-4984-87d0-d56e5cc4d11c",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-55743981-2cf3-41b4-8b04-9946a6ddfb1b",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-080f9cb8-c6e6-4296-9f4e-87eef9fcce30",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-0e30b058-3661-41ed-9a87-c44de1e0d070",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-c557772e-e7ef-4d91-a0e6-f560279ff070",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-75d7ab8b-2350-433a-967e-cdbb0c028238",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-893bfb90-f938-4e6b-b317-313d1c4ecaae",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-0737f220-5d5e-46b1-b928-165ad288caf3",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-08910f3c-ac05-4b7f-9baf-42c25726d183",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-6151a0c8-85a3-4680-b7a6-0d0936480377",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 2
+    },
+    {
+      "sourceKey": "18tickets:18tickets-28c560a0-08c7-40b3-8a0b-8f1cfc30babf",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 2
+    },
+    {
+      "sourceKey": "18tickets:18tickets-ad0d90ae-fd31-478c-9b98-fae3fa7cb47a",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 2
+    },
+    {
+      "sourceKey": "18tickets:18tickets-417d7d1f-9855-4034-b8d1-d18d6861d280",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-5f115c4d-80a6-47ec-bdff-882f7dbfb337",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 5
+    },
+    {
+      "sourceKey": "18tickets:18tickets-c3764eb7-3de0-4ab4-9d95-a667bf1b99c9",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-96952f94-9236-490f-b0c5-8912e134b895",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-828596af-56af-4a16-82da-7eb3f6b5435d",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-f027658b-edcd-472a-90ce-ab052e15b1ec",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-580392c2-70ec-4aa1-b136-080a8491d8db",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-c814e92c-6cc3-4679-97d9-5d737fb848a2",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-7dee023f-c234-4074-ae5f-7447a695b2db",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-6dce57ec-c18e-4176-8e59-04c837a6859a",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-616bda62-c98f-4836-847a-ddfb87b69f49",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-b5093ebe-6137-4573-9569-530eb07ecea9",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-51676b35-c0a7-4298-b0ea-9361c1ff4bd9",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-51a1e48e-5c24-47f4-9486-1b242eac1da8",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-c9a3f27f-940a-45ed-b09c-9d7df9636f0d",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-903e8016-d28d-42c4-b1b4-e85fe1fda40f",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-d1fcc91a-06d4-4066-b1bc-2b4492ce932e",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-4208b051-fe0e-4219-9c35-f3ac27be5d3f",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-33e8a8c6-acf7-4da8-8baf-0a112cf3b18e",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-62f2dc08-9e32-42dc-87eb-df9027e22eca",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-fb517029-172f-42d5-9793-b4e1d95a80fa",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-5ae26a33-8074-4927-b5aa-22168765f740",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-95b89d9b-33eb-491f-9dc0-3e46841702a0",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-300b7efd-e648-4dca-b635-0b3e8b794e50",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-5ebcdbce-a131-4bbb-959c-5e541e09a100",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-24c17fdd-1b6e-4b83-90c3-c4d091dec2d5",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-ff2cc39a-4f32-427c-a87e-9ec6ae0ddbdd",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-6041a15f-3701-4da5-b37c-743c2cd33bc2",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-3bf3c2dc-4406-46d0-a8e6-30216b092f62",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-ddec88f3-2584-4ff4-99bb-3d0d361dd528",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-61a8acd3-272a-467f-8a36-9654962f68de",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-cedf78c6-065d-41d3-b01d-d16e7e1220fa",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-1d2f674a-30a8-4135-9740-ea5281707ba1",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-d77fa4f3-c0cd-4413-9d1f-7b30077f7bbe",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-6a4f5ec5-b708-498c-a8ab-ca15406bde7c",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-5ddde048-6c96-4cab-acfe-3a5be917e472",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-477c90c3-3d1d-4e1c-914b-9ef2befd6ad0",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-5f828c35-d7df-4d46-badb-479c3a2d5f51",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-f7c27c84-45f9-429c-be4d-7cd930e22cdf",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-9d3edd9f-357f-4a24-bd56-95968a213c4d",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-6dd968ae-4702-450d-b0e2-9e9967a151ee",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-4ae5b8f3-193a-4a0c-a79c-016fe0589dbf",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-4c4b3dc3-eaeb-4c95-a8c2-43f969ed7889",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-0f568f37-6881-4c0c-b773-5fbbc1d062a9",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-f190ef45-8e59-4f16-bd44-3b73c1407257",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-83b470cd-4ed2-41da-b2a1-155bd1ba721a",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-92f113b6-dc0b-452d-b2a8-79bd4a0c4098",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-5b089ef5-4fe0-441d-968e-5b1ad48e2733",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-f0003cfc-398c-472a-b2d3-2280f8f77bd4",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-ef7d08ee-b264-470b-ac77-729d9514862c",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-138c0655-5c60-413d-b86c-f4d546ece98f",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-7c2edf63-52d9-4c32-9cc3-ccf3bc8eae34",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-4fb7f4df-706c-46f9-b16e-3bc392290452",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-a6be1811-f05b-4b5d-a0dc-799a4e464c87",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-61ced401-476a-4a6f-a220-d7202f39d9b9",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-da648ca0-cfa0-4653-8db8-e954f801d5ce",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-f5d5b1a9-6345-43a1-a112-375bece22d4b",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-47d94146-6cf5-4dce-a131-8f48bcc32bc5",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-13ce5235-8455-4430-a7e0-8830ce36a100",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 4
+    },
+    {
+      "sourceKey": "18tickets:18tickets-76158aa3-c6af-4f68-95b5-99d2f569427a",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-0cb6e42c-0953-4c87-a420-2e78fcba946c",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 2
+    },
+    {
+      "sourceKey": "18tickets:18tickets-446a47a9-0202-4e1f-bd71-0d224cf4c2f4",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-56b5137c-857e-4c9c-adff-6f92c805bfe1",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-d342f4a5-0955-4785-94b7-cc5ad3ce8055",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-4f815a9a-9b1d-4601-835f-47d29a67298c",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-449574ab-129c-42aa-baee-18f98926a233",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-7e85373f-a97d-4965-afd0-5c7d7673352b",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-916b5b75-cd5b-4431-aaf7-c2215c098fa6",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-83734cb1-67a5-42e5-a885-499050b33b1d",
+      "filmId": "hokum",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-5c922195-2a13-4114-ac45-bdf7ea61e8f5",
       "filmId": "hokum",
       "sold": 0
     },
@@ -1950,6 +2205,11 @@
       "sold": 22
     },
     {
+      "sourceKey": "18tickets:18tickets-b531be77-5ad2-4d69-8121-b0f88b4253cc",
+      "filmId": "odissea",
+      "sold": 7
+    },
+    {
       "sourceKey": "18tickets:18tickets-31f7736d-a959-4a0d-a2ef-9cbdf684478b",
       "filmId": "odissea",
       "sold": 3
@@ -2040,6 +2300,11 @@
       "sold": 18
     },
     {
+      "sourceKey": "18tickets:18tickets-fab657fc-6f60-495f-9c75-318fb6bda3c2",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 32
+    },
+    {
       "sourceKey": "18tickets:18tickets-a4127f18-1879-4bbf-bc48-55d9f09a1b57",
       "filmId": "spider-man-brand-new-day",
       "sold": 10
@@ -2103,6 +2368,11 @@
       "sourceKey": "18tickets:18tickets-ee66cccd-c73a-44f6-898a-9a965ec39ae9",
       "filmId": "odissea",
       "sold": 2
+    },
+    {
+      "sourceKey": "18tickets:18tickets-271924e9-d44f-43d0-a729-a95edf4aa1ea",
+      "filmId": "odissea",
+      "sold": 10
     },
     {
       "sourceKey": "18tickets:18tickets-64bd3db5-98a8-42b8-94a0-f017237d78f2",
@@ -2390,6 +2660,11 @@
       "sold": 0
     },
     {
+      "sourceKey": "18tickets:18tickets-2e3bfdf6-80f1-4433-a2c3-e245f5e564e6",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
       "sourceKey": "18tickets:18tickets-ef241af9-05cd-4bf2-ba06-61370a80516c",
       "filmId": "spider-man-brand-new-day",
       "sold": 0
@@ -2430,6 +2705,66 @@
       "filmId": "toy-story-5",
       "sold": 13,
       "occupancyUnknown": true
+    },
+    {
+      "sourceKey": "18tickets:18tickets-7052f832-de73-462c-b889-5383d5f18a05",
+      "filmId": "minions-and-monsters",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-e1ba3922-c065-45c9-a21c-99733c715dce",
+      "filmId": "minions-and-monsters",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-aa1319ef-8c96-4b20-a274-239ffe61b33e",
+      "filmId": "odissea",
+      "sold": 8
+    },
+    {
+      "sourceKey": "18tickets:18tickets-0fe9edae-1c2d-43a2-bac8-a3eabc2a36b0",
+      "filmId": "odissea",
+      "sold": 4
+    },
+    {
+      "sourceKey": "18tickets:18tickets-c8de6847-0b9b-4ea2-9a13-8761a20ac169",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-ed81d870-0978-4d5d-8f2a-5d8af88208e2",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-a8551298-7a63-484f-b6e2-656c94303e08",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 6
+    },
+    {
+      "sourceKey": "18tickets:18tickets-9507fc0b-ac76-4241-b4ea-bd9767bd8c56",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-f99eca04-1f0e-4fec-b935-e5ce7238c54e",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 2
+    },
+    {
+      "sourceKey": "18tickets:18tickets-ed1316c3-511c-4767-bf24-3795d23a48b8",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-41cdfe1f-20da-4d43-9b28-fbb91fcc5f36",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-8c951283-6cbc-4b12-a7a8-d41c05d0bc47",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 2
     },
     {
       "sourceKey": "18tickets:18tickets-cc83eebf-5d6d-48a4-83d0-368648404e6a",
@@ -2499,7 +2834,7 @@
     {
       "sourceKey": "18tickets:18tickets-a01961de-a928-4fe2-ac8b-5a233afc77c6",
       "filmId": "spider-man-brand-new-day",
-      "sold": 27
+      "sold": 29
     },
     {
       "sourceKey": "18tickets:18tickets-f03021a7-7b57-48b3-b236-6f614b6fab27",
@@ -2623,11 +2958,6 @@
     },
     {
       "sourceKey": "18tickets:18tickets-756bfde5-5f09-4305-97c9-fa38c8f20cb6",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "18tickets:18tickets-7c026a3e-cacc-4394-9624-adabd8ce62fb",
       "filmId": "odissea",
       "sold": 0
     },
@@ -3169,7 +3499,7 @@
     {
       "sourceKey": "18tickets:18tickets-67c3d72a-44f4-497d-9329-57625e1822eb",
       "filmId": "spider-man-brand-new-day",
-      "sold": 0
+      "sold": 3
     },
     {
       "sourceKey": "18tickets:18tickets-d396e3f8-dcbe-4bdb-b05f-61e9cfd4261e",
@@ -3265,11 +3595,6 @@
       "sourceKey": "18tickets:18tickets-8067c81d-1b28-4cca-be1f-b92685836c8f",
       "filmId": "odissea",
       "sold": 8
-    },
-    {
-      "sourceKey": "18tickets:18tickets-c9700acc-3581-4177-aa86-ab9bdf9cff71",
-      "filmId": "odissea",
-      "sold": 6
     },
     {
       "sourceKey": "18tickets:18tickets-2e96189e-4c3c-452c-97e1-b9333696a820",
@@ -3519,7 +3844,7 @@
     {
       "sourceKey": "18tickets:18tickets-a597adfb-35db-4a49-ae20-409a074e5e3e",
       "filmId": "spider-man-brand-new-day",
-      "sold": 0
+      "sold": 3
     },
     {
       "sourceKey": "18tickets:18tickets-4eff07a5-7751-4229-9a8c-8651294fa012",
@@ -3600,6 +3925,11 @@
       "sourceKey": "18tickets:18tickets-dfe2733b-f38d-48c1-9c94-bb04fb072ee0",
       "filmId": "spider-man-brand-new-day",
       "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-eb13e4d3-5b27-4556-b552-d09a4ba49094",
+      "filmId": "odissea",
+      "sold": 6
     },
     {
       "sourceKey": "18tickets:18tickets-458795f1-0457-484a-9a5b-d08a138379c9",
@@ -3738,6 +4068,11 @@
     },
     {
       "sourceKey": "18tickets:18tickets-c89caba4-709a-4c72-84f0-924e80b6a40b",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-fbdce156-6e69-4dfb-aaea-b27412b9ba65",
       "filmId": "spider-man-brand-new-day",
       "sold": 0
     },
@@ -4067,11 +4402,6 @@
       "sold": 0
     },
     {
-      "sourceKey": "18tickets:18tickets-d7423ee9-35cc-49a1-8160-bf200fe83691",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 2
-    },
-    {
       "sourceKey": "18tickets:18tickets-738c4920-6b87-47f0-8869-8cc04865dc8c",
       "filmId": "spider-man-brand-new-day",
       "sold": 0
@@ -4202,6 +4532,11 @@
       "sold": 0
     },
     {
+      "sourceKey": "18tickets:18tickets-4a1505f4-bd43-4e37-acbf-22f38f76f4cf",
+      "filmId": "hokum",
+      "sold": 0
+    },
+    {
       "sourceKey": "18tickets:18tickets-6a90b810-4a25-4948-b3d6-66a31f48548a",
       "filmId": "hokum",
       "sold": 0
@@ -4255,6 +4590,12 @@
     },
     {
       "sourceKey": "18tickets:18tickets-88b87f98-ffdf-4533-aeb6-120711d637a0",
+      "filmId": "odissea",
+      "sold": 0,
+      "occupancyUnknown": true
+    },
+    {
+      "sourceKey": "18tickets:18tickets-8e81a080-cd87-4c36-ab1d-fa930bc34e1e",
       "filmId": "odissea",
       "sold": 0,
       "occupancyUnknown": true
@@ -4822,11 +5163,6 @@
       "sold": 0
     },
     {
-      "sourceKey": "18tickets:18tickets-67741c23-7ed8-4cfc-a299-23a3a1fe8e44",
-      "filmId": "odissea",
-      "sold": 2
-    },
-    {
       "sourceKey": "18tickets:18tickets-0b7e9b2d-699a-429c-8f81-c3fdeb5e4186",
       "filmId": "odissea",
       "sold": 17
@@ -4944,7 +5280,7 @@
     {
       "sourceKey": "18tickets:18tickets-83485b7a-e519-4887-856a-e461feefbc36",
       "filmId": "odissea",
-      "sold": 4
+      "sold": 6
     },
     {
       "sourceKey": "18tickets:18tickets-aff3a8ac-e7d1-41a6-9373-3ccf3a8f7141",
@@ -4972,7 +5308,7 @@
     {
       "sourceKey": "18tickets:18tickets-101c3e21-e452-49f8-b343-0f1a63a57373",
       "filmId": "odissea",
-      "sold": 61
+      "sold": 62
     },
     {
       "sourceKey": "18tickets:18tickets-850fba21-206d-4a3e-a1da-1a39601f9f9b",
@@ -6263,11 +6599,6 @@
       "sourceKey": "18tickets:18tickets-1e522dca-386c-44ab-8a8f-d2b293bf0333",
       "filmId": "odissea",
       "sold": 2
-    },
-    {
-      "sourceKey": "18tickets:18tickets-1ae998ad-574a-4dde-bdae-b3df46ba4336",
-      "filmId": "odissea",
-      "sold": 0
     },
     {
       "sourceKey": "18tickets:18tickets-8b6a2b3e-38ba-43f8-ac8b-cc75a76c2b65",
@@ -7867,6 +8198,11 @@
       "sold": 20
     },
     {
+      "sourceKey": "18tickets:18tickets-2c00a769-8111-40bf-b5f8-0f294693abd7",
+      "filmId": "odissea",
+      "sold": 3
+    },
+    {
       "sourceKey": "18tickets:18tickets-8c4a4828-a818-43bf-ad5a-9f815ebc264c",
       "filmId": "odissea",
       "sold": 30
@@ -8489,7 +8825,7 @@
     {
       "sourceKey": "18tickets:18tickets-37d5473e-0514-4581-92c7-f0140f6d3fb5",
       "filmId": "odissea",
-      "sold": 7
+      "sold": 5
     },
     {
       "sourceKey": "18tickets:18tickets-1a328cf1-482e-4dff-9f3e-b546ccdda8eb",
@@ -10149,7 +10485,7 @@
     {
       "sourceKey": "webtic:webtic-5124-533609",
       "filmId": "odissea",
-      "sold": 41
+      "sold": 43
     },
     {
       "sourceKey": "webtic:webtic-5124-533477",
@@ -10219,7 +10555,7 @@
     {
       "sourceKey": "webtic:webtic-5124-533638",
       "filmId": "spider-man-brand-new-day",
-      "sold": 14
+      "sold": 23
     },
     {
       "sourceKey": "webtic:webtic-5124-533504",
@@ -10593,13 +10929,13 @@
       "thespace"
     ],
     "catalogEndpoints": 162,
-    "catalogFailures": 40,
+    "catalogFailures": 39,
     "excludedProviders": {
       "liveticket": "nessun catalogo pubblico generale: non inferito",
       "2tickets": "l occupazione non separa i venduti: esclusa dal grafico"
     },
-    "discoveredSources": 2106,
-    "readSources": 2094,
-    "failedSources": 12
+    "discoveredSources": 2171,
+    "readSources": 2161,
+    "failedSources": 10
   }
 }
