@@ -1,47 +1,47 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-31T03:30:15.817Z",
+  "generatedAt": "2026-08-31T04:30:13.313Z",
   "films": [
     {
       "id": "spider-man-brand-new-day",
       "title": "Spider-Man: Brand New Day",
-      "netSoldLastHour": 4,
-      "comparableSources": 342,
-      "baselineSources": 17
+      "netSoldLastHour": 0,
+      "comparableSources": 306,
+      "baselineSources": 5
     },
     {
       "id": "odissea",
       "title": "Odissea",
       "netSoldLastHour": 0,
-      "comparableSources": 393,
-      "baselineSources": 12
+      "comparableSources": 340,
+      "baselineSources": 8
     },
     {
       "id": "hokum",
       "title": "Hokum",
       "netSoldLastHour": null,
       "comparableSources": 0,
-      "baselineSources": 0
+      "baselineSources": 2
     },
     {
       "id": "minions-and-monsters",
       "title": "Minions & Monsters",
       "netSoldLastHour": 0,
-      "comparableSources": 12,
+      "comparableSources": 9,
       "baselineSources": 0
     },
     {
       "id": "toy-story-5",
       "title": "Toy Story 5",
-      "netSoldLastHour": 0,
-      "comparableSources": 2,
+      "netSoldLastHour": null,
+      "comparableSources": 0,
       "baselineSources": 0
     },
     {
       "id": "le-citta-di-pianura",
       "title": "Le città di pianura",
       "netSoldLastHour": 0,
-      "comparableSources": 13,
+      "comparableSources": 12,
       "baselineSources": 0
     },
     {
@@ -54,8 +54,8 @@
     {
       "id": "deep-water-incubo-dagli-abissi",
       "title": "Deep Water – Incubo dagli abissi",
-      "netSoldLastHour": 0,
-      "comparableSources": 2,
+      "netSoldLastHour": null,
+      "comparableSources": 0,
       "baselineSources": 0
     },
     {
@@ -74,6 +74,16 @@
     }
   ],
   "sources": [
+    {
+      "sourceKey": "18tickets:18tickets-777ac3e0-8b1f-4e13-9b28-37b4de5e4cb5",
+      "filmId": "odissea",
+      "sold": 303
+    },
+    {
+      "sourceKey": "18tickets:18tickets-7c11f74d-b695-4e69-aa79-7219cb568bd9",
+      "filmId": "odissea",
+      "sold": 288
+    },
     {
       "sourceKey": "18tickets:18tickets-49c81be5-6ff5-415a-abfc-a0578b0e742d",
       "filmId": "odissea",
@@ -599,6 +609,11 @@
       "sold": 0
     },
     {
+      "sourceKey": "18tickets:18tickets-63ece301-a1bd-4150-b148-3a17a4a5267f",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 5
+    },
+    {
       "sourceKey": "18tickets:18tickets-04b49891-a771-4e1b-b0af-c804e5843020",
       "filmId": "spider-man-brand-new-day",
       "sold": 0
@@ -685,11 +700,6 @@
       "occupancyUnknown": true
     },
     {
-      "sourceKey": "18tickets:18tickets-b4430e74-d5ef-4599-9664-129e8b15d0c5",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
       "sourceKey": "18tickets:18tickets-68c0603e-a4e4-4c5a-a59b-cc38be32d4d8",
       "filmId": "odissea",
       "sold": 0
@@ -708,6 +718,11 @@
       "sourceKey": "18tickets:18tickets-1779c37f-6063-4f02-8cf0-f7e186553f17",
       "filmId": "odissea",
       "sold": 4
+    },
+    {
+      "sourceKey": "18tickets:18tickets-965fb28d-df44-45de-bd83-079b18a8b4c4",
+      "filmId": "odissea",
+      "sold": 0
     },
     {
       "sourceKey": "18tickets:18tickets-13dd04ca-2ea5-47ff-a13f-5bcf361d2e60",
@@ -1130,11 +1145,6 @@
       "sold": 0
     },
     {
-      "sourceKey": "18tickets:18tickets-e8b79236-aa6a-43b7-8314-d5985cd779c5",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
       "sourceKey": "18tickets:18tickets-a94685b4-98e3-4f68-825f-1a686a4bc12e",
       "filmId": "odissea",
       "sold": 0
@@ -1533,11 +1543,6 @@
       "sold": 0
     },
     {
-      "sourceKey": "18tickets:18tickets-aa34b1b9-6aab-440c-bcb1-1f6a7e7fec2b",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
       "sourceKey": "18tickets:18tickets-7c70ea7f-66b2-4fd0-b590-c3c427c7fdff",
       "filmId": "spider-man-brand-new-day",
       "sold": 0
@@ -1638,6 +1643,11 @@
       "sold": 0
     },
     {
+      "sourceKey": "18tickets:18tickets-cca3411c-7a90-4974-a7a8-dc7af8da1f59",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
       "sourceKey": "18tickets:18tickets-8fe4039a-1a77-4774-aee9-141344a7ff8f",
       "filmId": "spider-man-brand-new-day",
       "sold": 0
@@ -1670,6 +1680,26 @@
     {
       "sourceKey": "18tickets:18tickets-72c024c5-f6f4-4fd4-b657-6155c71214f2",
       "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-bd5738c7-c59f-4108-8aeb-b6ea19198e5f",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-1595eecd-6540-447e-99f5-876ae97cb180",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-ba589848-94b0-4434-9ad2-64c1b4de2c08",
+      "filmId": "hokum",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-13367067-419d-4903-b645-2117ded8cb66",
+      "filmId": "hokum",
       "sold": 0
     },
     {
@@ -2584,6 +2614,11 @@
       "sold": 0
     },
     {
+      "sourceKey": "18tickets:18tickets-75fbdd7a-af3e-4d8a-a13a-43cb6f369730",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
       "sourceKey": "18tickets:18tickets-48c6dcdf-c45b-4cf8-afa9-b6d2ed33ce9a",
       "filmId": "odissea",
       "sold": 0
@@ -2834,11 +2869,6 @@
       "sold": 2
     },
     {
-      "sourceKey": "18tickets:18tickets-04e29ddd-a4a6-44d1-b22a-cc24aa11ec08",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
       "sourceKey": "18tickets:18tickets-dad95094-af6e-453c-9e06-3359557ffc82",
       "filmId": "spider-man-brand-new-day",
       "sold": 4
@@ -2902,6 +2932,26 @@
       "sourceKey": "18tickets:18tickets-cd09e24c-03bf-4043-9bb5-5c5517ced4b8",
       "filmId": "odissea",
       "sold": 2
+    },
+    {
+      "sourceKey": "18tickets:18tickets-592de963-fa28-4f09-9fb7-104843f571e7",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-df581d78-224b-49a4-90fc-17c23a4c4bd0",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-d1b460f8-40e8-48cb-b950-199e919793c3",
+      "filmId": "odissea",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-3c240812-589e-494a-854f-4a311bc68d7a",
+      "filmId": "odissea",
+      "sold": 0
     },
     {
       "sourceKey": "18tickets:18tickets-36c43468-f01b-4bb4-aada-b7875a3bda00",
@@ -3100,6 +3150,11 @@
     },
     {
       "sourceKey": "18tickets:18tickets-72b73b4c-e323-49e0-86be-a219d5fd32fd",
+      "filmId": "spider-man-brand-new-day",
+      "sold": 0
+    },
+    {
+      "sourceKey": "18tickets:18tickets-24f4109c-c662-443a-8013-9e9f91b1e7e2",
       "filmId": "spider-man-brand-new-day",
       "sold": 0
     },
@@ -3642,616 +3697,6 @@
       "sourceKey": "18tickets:18tickets-a0fa769a-1c43-427c-a5a2-c640b8db5291",
       "filmId": "spider-man-brand-new-day",
       "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5082-230107",
-      "filmId": "odissea",
-      "sold": 4
-    },
-    {
-      "sourceKey": "webtic:webtic-5082-230108",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5082-230109",
-      "filmId": "odissea",
-      "sold": 2
-    },
-    {
-      "sourceKey": "webtic:webtic-5082-230110",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5082-230111",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5082-230112",
-      "filmId": "odissea",
-      "sold": 2
-    },
-    {
-      "sourceKey": "webtic:webtic-5082-230125",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5082-230126",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 3
-    },
-    {
-      "sourceKey": "webtic:webtic-5082-230127",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5082-230128",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5082-230129",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5082-230130",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5293-93585",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5293-93587",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5293-93604",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5293-93584",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5293-93607",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5293-93588",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5293-93610",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5293-93590",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5293-93591",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5431-51575",
-      "filmId": "le-citta-di-pianura",
-      "sold": 2
-    },
-    {
-      "sourceKey": "webtic:webtic-5431-52013",
-      "filmId": "odissea",
-      "sold": 2
-    },
-    {
-      "sourceKey": "webtic:webtic-5431-52021",
-      "filmId": "odissea",
-      "sold": 4
-    },
-    {
-      "sourceKey": "webtic:webtic-5431-52022",
-      "filmId": "odissea",
-      "sold": 2
-    },
-    {
-      "sourceKey": "webtic:webtic-5431-52034",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5431-52042",
-      "filmId": "odissea",
-      "sold": 4
-    },
-    {
-      "sourceKey": "webtic:webtic-5431-52043",
-      "filmId": "odissea",
-      "sold": 4
-    },
-    {
-      "sourceKey": "webtic:webtic-5431-52055",
-      "filmId": "odissea",
-      "sold": 3
-    },
-    {
-      "sourceKey": "webtic:webtic-5431-52063",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5431-52064",
-      "filmId": "odissea",
-      "sold": 4
-    },
-    {
-      "sourceKey": "webtic:webtic-5660-7512",
-      "filmId": "minions-and-monsters",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5094-296140",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5094-296141",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5094-296142",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5094-296143",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5094-296144",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5094-296145",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5094-296117",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5094-296118",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 5
-    },
-    {
-      "sourceKey": "webtic:webtic-5094-296119",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5094-296120",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5094-296121",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5094-296122",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534103",
-      "filmId": "odissea",
-      "sold": 23
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534111",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 4
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534193",
-      "filmId": "deep-water-incubo-dagli-abissi",
-      "sold": 4
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534273",
-      "filmId": "odissea",
-      "sold": 3
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534164",
-      "filmId": "odissea",
-      "sold": 2
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534275",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534126",
-      "filmId": "odissea",
-      "sold": 5
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534276",
-      "filmId": "odissea",
-      "sold": 1
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534230",
-      "filmId": "odissea",
-      "sold": 2
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534277",
-      "filmId": "odissea",
-      "sold": 4
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534129",
-      "filmId": "odissea",
-      "sold": 13
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534207",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534132",
-      "filmId": "odissea",
-      "sold": 11
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534206",
-      "filmId": "odissea",
-      "sold": 9
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534079",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 12
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534080",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 13
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534229",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 9
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534082",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534083",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 3
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534197",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 3
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534355",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534084",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534290",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 2
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534085",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 2
-    },
-    {
-      "sourceKey": "webtic:webtic-5124-534086",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 2
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524800",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 5
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524804",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524808",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524932",
-      "filmId": "deep-water-incubo-dagli-abissi",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524929",
-      "filmId": "odissea",
-      "sold": 1
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-525017",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524894",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524875",
-      "filmId": "odissea",
-      "sold": 4
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524933",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524897",
-      "filmId": "odissea",
-      "sold": 10
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524878",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524879",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524880",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524957",
-      "filmId": "odissea",
-      "sold": 4
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524903",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 2
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524873",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524851",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 5
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524904",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524876",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-525030",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-524905",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-525025",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5134-525026",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 2
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43087",
-      "filmId": "odissea",
-      "sold": 2
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43096",
-      "filmId": "odissea",
-      "sold": 3
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43050",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43080",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43090",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43100",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43054",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43104",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43058",
-      "filmId": "odissea",
-      "sold": 3
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43073",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43116",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 2
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43088",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43051",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43075",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43111",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43091",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43055",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43077",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43109",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-5664-43059",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-7462-94680",
-      "filmId": "minions-and-monsters",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-7462-94684",
-      "filmId": "minions-and-monsters",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-7462-94656",
-      "filmId": "odissea",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-7462-94659",
-      "filmId": "odissea",
-      "sold": 7
-    },
-    {
-      "sourceKey": "webtic:webtic-7462-94704",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 5
-    },
-    {
-      "sourceKey": "webtic:webtic-7462-94705",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-7462-94707",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-7462-94708",
-      "filmId": "spider-man-brand-new-day",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-7462-94631",
-      "filmId": "toy-story-5",
-      "sold": 0
-    },
-    {
-      "sourceKey": "webtic:webtic-7462-94635",
-      "filmId": "toy-story-5",
-      "sold": 0
     }
   ],
   "dateWindow": {
@@ -4265,13 +3710,13 @@
       "thespace"
     ],
     "catalogEndpoints": 164,
-    "catalogFailures": 40,
+    "catalogFailures": 50,
     "excludedProviders": {
       "liveticket": "nessun catalogo pubblico generale: non inferito",
       "2tickets": "l occupazione non separa i venduti: esclusa dal grafico"
     },
-    "discoveredSources": 836,
-    "readSources": 829,
-    "failedSources": 7
+    "discoveredSources": 722,
+    "readSources": 718,
+    "failedSources": 4
   }
 }
